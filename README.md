@@ -1,5 +1,5 @@
 # file-transfer
-Simple python 3 socket tool to transfer file between two endpoints
+Simple python 3 socket tool to transfer file between two endpoints.
 
 ### Modes
 This software has two classes. First is transmitter mode and second is receiver mode. Run program with no arguments, usage will print.
