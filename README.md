@@ -2,7 +2,7 @@
 Simple python 3 socket tool to transfer file between two endpoints
 
 ### Modes
-This software has two classes. First is transmitter mode and second is receiver mode.
+This software has two classes. First is transmitter mode and second is receiver mode. Run program with no arguments, usage will print.
 
 ### Change addresses
 Change IP address in transmitter class to connect computer, that is running this program with `-r` argument.
