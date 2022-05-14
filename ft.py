@@ -36,7 +36,7 @@ class Transmitter:
 
 		offset = 0
 		while offset < len(buffer):
-			self.sock.send(buffer[0+offset:399+offset])
+			self.sock.send(buffer[0+offset:400+offset])
 			offset += 400
 
 	def close(self):
